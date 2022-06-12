@@ -1,0 +1,40 @@
+com/tw/travel/ticketing/exception/FlightNoSeatException.java
+ com.tw.travel.ticketing.exception.FlightNoSeatException
+com/tw/travel/ticketing/infrastructure/feignclient/FlightResponse.java
+ com.tw.travel.ticketing.infrastructure.feignclient.FlightResponse
+ com.tw.travel.ticketing.infrastructure.feignclient.FlightResponse$FlightResponseBuilder
+com/tw/travel/ticketing/infrastructure/feignclient/PaymentClient.java
+ com.tw.travel.ticketing.infrastructure.feignclient.PaymentClient
+com/tw/travel/ticketing/infrastructure/repository/entity/TicketingOrder.java
+ com.tw.travel.ticketing.infrastructure.repository.entity.TicketingOrder
+ com.tw.travel.ticketing.infrastructure.repository.entity.TicketingOrder$TicketingOrderBuilder
+com/tw/travel/ticketing/exception/FlightHasDepartedException.java
+ com.tw.travel.ticketing.exception.FlightHasDepartedException
+com/tw/travel/ticketing/infrastructure/repository/entity/TicketingOrderStatus.java
+ com.tw.travel.ticketing.infrastructure.repository.entity.TicketingOrderStatus
+com/tw/travel/ticketing/infrastructure/feignclient/FlightClient.java
+ com.tw.travel.ticketing.infrastructure.feignclient.FlightClient
+com/tw/travel/ticketing/controller/dto/TicketingOrderResponse.java
+ com.tw.travel.ticketing.controller.dto.TicketingOrderResponse
+ com.tw.travel.ticketing.controller.dto.TicketingOrderResponse$TicketingOrderResponseBuilder
+com/tw/travel/ticketing/TicketingApplication.java
+ com.tw.travel.ticketing.TicketingApplication
+com/tw/travel/ticketing/exception/OrderCanNotCancelException.java
+ com.tw.travel.ticketing.exception.OrderCanNotCancelException
+com/tw/travel/ticketing/infrastructure/feignclient/FlightStatus.java
+ com.tw.travel.ticketing.infrastructure.feignclient.FlightStatus
+com/tw/travel/ticketing/infrastructure/feignclient/PaymentResponse.java
+ com.tw.travel.ticketing.infrastructure.feignclient.PaymentResponse
+com/tw/travel/ticketing/controller/dto/CreateTicketingOrderRequest.java
+ com.tw.travel.ticketing.controller.dto.CreateTicketingOrderRequest
+ com.tw.travel.ticketing.controller.dto.CreateTicketingOrderRequest$CreateTicketingOrderRequestBuilder
+com/tw/travel/ticketing/assembler/TicketingOrderMapper.java
+ com.tw.travel.ticketing.assembler.TicketingOrderMapper
+com/tw/travel/ticketing/exception/OrderNoFoundException.java
+ com.tw.travel.ticketing.exception.OrderNoFoundException
+com/tw/travel/ticketing/service/TicketingService.java
+ com.tw.travel.ticketing.service.TicketingService
+com/tw/travel/ticketing/controller/TicketingController.java
+ com.tw.travel.ticketing.controller.TicketingController
+com/tw/travel/ticketing/infrastructure/repository/TicketingOrderRepository.java
+ com.tw.travel.ticketing.infrastructure.repository.TicketingOrderRepository

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/flights"
+  },
+  "response": {
+    "status": 200,
+    "body": "[{\"code\": \"Flight001\",\"departTime\":\"2022-07-01 12:00:00\",\"status\": \"CREATED\"}]",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
